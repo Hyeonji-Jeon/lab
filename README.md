@@ -3,3 +3,4 @@
 3. Mobile : 010-1234-5678
 4. City : Busan
 5. Birth : 000000
+7. Sex : F
